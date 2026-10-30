@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lightray": {
+      "type": "http",
+      "url": "https://app.lightray.ai/mcp"
+    }
+  }
+}
