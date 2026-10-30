@@ -1,0 +1,15 @@
+{
+  "name": "lightray",
+  "owner": {
+    "name": "LightRay",
+    "email": "hello@lightray.ai",
+    "url": "https://www.lightray.ai"
+  },
+  "description": "Brief me on the companies in my meetings, or take a first look at a new client, with LightRay's company reports.",
+  "plugins": [
+    {
+      "name": "lightray",
+      "source": "./"
+    }
+  ]
+}
