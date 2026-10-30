@@ -1,0 +1,18 @@
+{
+  "name": "lightray",
+  "displayName": "LightRay",
+  "version": "1.0.0",
+  "description": "Brief me on the companies in my meetings, or take a first look at a new client, with LightRay's company reports.",
+  "author": {
+    "name": "LightRay",
+    "email": "hello@lightray.ai",
+    "url": "https://www.lightray.ai"
+  },
+  "homepage": "https://www.lightray.ai/claude",
+  "license": "Apache-2.0",
+  "icon": "./lightray-icon.png",
+  "documentationUrl": "https://www.lightray.ai/claude",
+  "supportUrl": "https://www.lightray.ai/claude",
+  "privacyPolicyUrl": "https://www.lightray.ai/v3/privacy",
+  "termsOfServiceUrl": "https://www.lightray.ai/v3/terms"
+}
